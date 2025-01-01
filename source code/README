@@ -1,0 +1,6 @@
+Build with  
+* Build as follows:
+ *  $make clean && make
+ *
+ * Execute as follows: 
+ *  $./RISCV_core <trace file>

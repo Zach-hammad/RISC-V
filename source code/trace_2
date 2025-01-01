@@ -1,0 +1,13 @@
+addi x22, x0, 5
+addi x20, x0, 0
+add x21, x0, x0
+addi x5, x21, -4
+beq  x5, x0, 36
+add x0, x0, x0
+add x0, x0, x0
+slli x5, x21, 3
+add x5, x20, x5
+sd x22, 0(x5)
+beq x0, x0, -28
+addi x21, x21, 1
+add x0, x0, x0
