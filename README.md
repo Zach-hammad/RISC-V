@@ -35,12 +35,6 @@ This project presents an advanced implementation of a RISC-V CPU, evolving from 
 - Debugging intricate issues related to cache coherence and branch mispredictions.
 - Managing the complexity of out-of-order execution and maintaining instruction correctness.
 
-## Repository Structure
-
-- `source_code/`: Contains Verilog modules for various CPU components.
-- `testbenches/`: Includes testbenches for verifying the functionality of CPU modules.
-- `docs/`: Documentation detailing the design decisions, architecture diagrams, and performance analysis.
-
 ## Getting Started
 
 To simulate the CPU:
